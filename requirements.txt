@@ -5,3 +5,4 @@ numpy==2.1.1
 scipy==1.14.1
 xgboost
 imbalanced-learn
+uvicorn
