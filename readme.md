@@ -10,6 +10,17 @@ Esta es una API basada en **FastAPI** que utiliza un modelo de **XGBoost** entre
 python -m venv venv
 ```
 
+**Windows**
+```bash
+./venv/Scripts/activate
+```
+
+**MAC**
+```bash
+source venv/bin/activate
+```
+
+
 ### Instalación de las Dependencias
 
 Ejecuta el siguiente comando para instalar todas las dependencias listadas en el archivo `requirements.txt`:
@@ -19,6 +30,8 @@ pip install -r requirements.txt
 ```
 
 ## Entrenamiento del modelo 
+
+Crear una carpeta llamada **models** en el directorio raiz
 
 Entrenar el modelo con el siguiente comando:
 
