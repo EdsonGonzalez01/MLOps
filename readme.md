@@ -83,7 +83,7 @@ Correr el siguiente script
 python script.py
 ```
 
-El cual debe regresar una prediccion de acuerdo a los datos que contenga la variable **data**
+El cual debe generar el csv **data/xgb_credit_pred_with_predictions.csv**. Este archivo contiene en la columa Y las predicciones para cada uno de los casos de prueba
 
 
 
