@@ -32,6 +32,9 @@ pip install -r requirements.txt
 ## Entrenamiento del modelo 
 
 Crear una carpeta llamada **models** en el directorio raiz
+```bash
+mkdir models
+```
 
 Entrenar el modelo con el siguiente comando:
 
